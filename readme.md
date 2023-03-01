@@ -28,3 +28,12 @@ This is a repo to track my progress and store my solutions to the [Exercism](htt
 
 ### Slices & Variadic Functions
 - [Card Tricks](https://github.com/SurfingElectron/exercism-solutions-go/tree/main/card-tricks) ✔️
+
+### Conditionals Switch
+- [Card Tricks](https://github.com/SurfingElectron/exercism-solutions-go/tree/main/blackjack) ✔️
+
+### Structs
+- [Need for Speed](https://github.com/SurfingElectron/exercism-solutions-go/tree/main/need-for-speed) ✔️
+
+### Randomness
+- [Animal Magic](https://github.com/SurfingElectron/exercism-solutions-go/tree/main/animal-magic) ✔️
